@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player.html#a7383ff127430b6a8b1187c5c8b02d534"><param name="Name" value="color"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_my_football_1_1_form1.html#a72310de17199b396d440084f6a6958f2"><param name="Name" value="DrawField"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_field.html"><param name="Name" value="Field"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_field_1_1_p_o_s.html"><param name="Name" value="Field::POS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_field_1_1_p_o_s.html#a9a5c189c09a3ed774cfa7d5ee8ab5c13"><param name="Name" value="X"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_field_1_1_p_o_s.html#a5e62a1a74bb77b411ebf0b1bbfdbc5cf"><param name="Name" value="Y"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_field.html"><param name="Name" value="Field"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player.html#ab297dce936f9a9e9534773924b2e03fb"><param name="Name" value="field"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_field.html"><param name="Name" value="Field"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player.html#a1cfeecbd9e30dba7ad741abece8663a4"><param name="Name" value="hMutex"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player.html#adf9cd2b11fa4f199ff37d3500563e1c0"><param name="Name" value="MAX_STEP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_my_football_1_1_form1.html"><param name="Name" value="MyFootball::Form1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_my_football_1_1_form1.html#a72310de17199b396d440084f6a6958f2"><param name="Name" value="DrawField"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_my_football_1_1_form1.html#a1d2e6015e39c517453a78bd8853b930d"><param name="Name" value="~Form1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player.html#a743a2c2773a0ee5657817d3772908ccf"><param name="Name" value="num"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player.html#a4825a137b0a59cc8f968a6e8b997ffa0"><param name="Name" value="Play"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player.html"><param name="Name" value="Player"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player.html#a7383ff127430b6a8b1187c5c8b02d534"><param name="Name" value="color"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player.html#ab297dce936f9a9e9534773924b2e03fb"><param name="Name" value="field"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player.html#a1cfeecbd9e30dba7ad741abece8663a4"><param name="Name" value="hMutex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player.html#adf9cd2b11fa4f199ff37d3500563e1c0"><param name="Name" value="MAX_STEP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player.html#a743a2c2773a0ee5657817d3772908ccf"><param name="Name" value="num"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player.html#a4825a137b0a59cc8f968a6e8b997ffa0"><param name="Name" value="Play"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_player.html#a373787b90bef558617c7848f3402f1bb"><param name="Name" value="Player"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_field.html#af35065fd29276c0b3773fd38ae90bbaf"><param name="Name" value="position"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_field_1_1_p_o_s.html#a9a5c189c09a3ed774cfa7d5ee8ab5c13"><param name="Name" value="X"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_field_1_1_p_o_s.html#a5e62a1a74bb77b411ebf0b1bbfdbc5cf"><param name="Name" value="Y"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_my_football_1_1_form1.html#a1d2e6015e39c517453a78bd8853b930d"><param name="Name" value="~Form1"></OBJECT>
+</UL>
+</BODY>
+</HTML>
