@@ -198,9 +198,9 @@ private:
 	int score2;
 	/// @name Resources
 	/// {@
-	static String^ bluePlayerImage = "1.jpg"; 
-	static String^ redPlayerImage = "2.jpg"; 
-	static String^ ballImage = "ball.jpg"; 
+	static String^ bluePlayerImage = "1.png"; 
+	static String^ redPlayerImage = "2.png"; 
+	static String^ ballImage = "ball.png"; 
 	/// @}
 public: 
 	/// Draws field and players
@@ -305,12 +305,18 @@ private:
 		this->drawPanel->Controls->Add(this->picBox[0]);
 		this->picBox[0]->Location = System::Drawing::Point(field->position[0].X, field->position[0].Y);
 		this->picBox[0]->Size = System::Drawing::Size(20, 20);
+		
+		this->SetStyle(ControlStyles::SupportsTransparentBackColor, true);
+		this->picBox[0]->BackColor = Color::Transparent;
 		this->picBox[0]->Load(ballImage);
+		
 		for(int i=1; i<=22; i++) {
 			this->picBox->Add(gcnew System::Windows::Forms::PictureBox());
 			this->drawPanel->Controls->Add(this->picBox[i]);
 			this->picBox[i]->Location = System::Drawing::Point(field->position[i].X, field->position[i].Y);
 			this->picBox[i]->Size = System::Drawing::Size(20, 20);
+			this->picBox[i]->BackColor = Color::Transparent;
+
 			if (i % 2)
 				 this->picBox[i]->Load(bluePlayerImage);
 			else 
